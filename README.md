@@ -1,5 +1,3 @@
-# testrepo2
-
-## Editing the file
+# applied data science capstone
 
 It's a markdown file in this repository.
